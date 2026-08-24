@@ -1,3 +1,4 @@
 {
-    "mirrord.promptUsingBinary": false
+    "mirrord.promptUsingBinary": false,
+    "makefile.configureOnOpen": false
 }
