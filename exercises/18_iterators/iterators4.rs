@@ -11,7 +11,7 @@ fn factorial(num: u64) -> u64 {
     // For an extra challenge, don't use:
     // - recursion
 
-    
+    (2..=num).product()
 }
 
 fn main() {
